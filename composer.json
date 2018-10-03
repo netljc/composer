@@ -1,0 +1,14 @@
+{
+    "name": "netljc/composer",
+    "description": "composer test",
+    "type": "test",
+    "license": "test",
+    "authors": [
+        {
+            "name": "netljc",
+            "email": "365426029@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
