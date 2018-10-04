@@ -1,7 +1,7 @@
 {
     "name": "netljc/composer",
     "description": "composer test",
-    "type": "test",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
